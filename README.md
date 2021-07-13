@@ -15,4 +15,7 @@ highlights : 1: download with the filename
              
 It is not gui its cmd only but it has crasy banner and downloader progress bar.
 
+language : python
+module used : requests, pynput, os, subprocess.
+
 Thank you.
